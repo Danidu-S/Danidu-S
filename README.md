@@ -26,7 +26,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danidus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danidus" height="30" width="40" /></a>
   <a href="https://web.facebook.com/danidu.sandaruwanjayanandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danidu.sandaruwanjayanandana" height="30" width="40" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__d_a_n_i_d_u__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__d_a_n_i_d_u__" height="30" width="40" /></a>
+	<a href="mailto:sdsj.mmv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="sdsj.mmv" height="30" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
