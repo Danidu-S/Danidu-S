@@ -1,7 +1,10 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Danidu%20Sandaruwan%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Danidu%20Sandaruwan%20&fontSize=50&type=waving&fontColor=fefefe&&animation=twinkling"
   alt="header"/>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danidu-S&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Undergraduate;BSc+%28Hons%29+IT+Specialising+in+Cyber+Security;CTF+Player+%26+Security+Enthusiast;Tinkering+with+Malware+Analysis;Exploring+Penetration+Testing;Linux+%26+Network+Security;Always+learning+new+things" alt="Typing SVG" />
@@ -34,3 +37,6 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=python,java,c,r,javascript,html,css,linux,bash,git,ds,ds,ds,github,vscode,arduino,mysql&perline=10"  />
 </p>
+
+
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
