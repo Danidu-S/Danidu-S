@@ -29,5 +29,8 @@
   <a href="https://www.instagram.com/__d_a_n_i_d_u__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__d_a_n_i_d_u__" height="30" width="40" /></a>
 	<a href="mailto:sdsj.mmv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="sdsj.mmv" height="30" /></a>
 </p>
-
-<!-- LANGUAGES AND TOOLS -->
+<hr>
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=python,java,c,r,javascript,html,css,linux,bash,git,ds,ds,ds,github,vscode,arduino,mysql&perline=10"  />
+</p>
