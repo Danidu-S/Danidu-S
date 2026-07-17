@@ -20,3 +20,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danidu-S&theme=tokyonight" alt="mystreak"/>
 </p>
+
+<hr>      
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danidus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danidus" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/danidu.sandaruwanjayanandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danidu.sandaruwanjayanandana" height="30" width="40" /></a>
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+</p>
+
+<!-- LANGUAGES AND TOOLS -->
