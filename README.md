@@ -17,7 +17,7 @@
 🎓 &nbsp;I'm currently pursuing my undergraduate degree in Cybersecurity at the Sri Lanka Institute of Information Technology (SLIIT) .\
 🌱 &nbsp;I'm actively expanding my skills in Malware Analysis, Penetration Testing, Cryptography, and Linux Systems.\
 ✉️ &nbsp;You can shoot me an email at sdsj.mmv@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+<!--📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!-->
 
 ## By the way here are some of my statistics 🚀
 <p align="center">
